@@ -21,7 +21,7 @@ Todo application  using ReactJS and Django
 # Run the application
 
 1. You will need two terminals pointed to the frontend and backend directories to start the servers for this application.
-2. Run this command to start the backend server in the [backend] directory: [python manage.py runserver] 
+2. Run this command to start the backend server in the [backend] directory: [python manage.py runserver(This will start the frontend on the adddress localhost:3000) ] 
 3. Run this command to start the frontend development server in the [frontend] directory: [npm install] (This will start the frontend on the adddress localhost:3000)
 
 # Built With
