@@ -5,10 +5,11 @@ Todo application  using ReactJS and Django
 
 
 # Requirements
-Python3
-django
-node.js
-npm
+1. Python3
+2. django 2.2.4
+3. Pip
+4. node.js
+5. npm
 
 # Getting started
 
