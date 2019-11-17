@@ -27,6 +27,7 @@ Todo application  using ReactJS and Django
 3. Run this command to start the frontend development server in the [frontend] directory: [npm install] (This will start the frontend on the adddress localhost:3000)
 
 # Built With
+
 1.	Frontend: React, Redux, React Router, Redux Middleware's (e.g. Thunk) 
 2.	Backend: Django, Python 3 
 3.	Database: sqlite3
