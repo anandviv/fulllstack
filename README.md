@@ -13,7 +13,7 @@ Todo application  using ReactJS and Django
 
 # Getting started
 
-1. Clone the project to your machine [git clone https://github.com/Jordanirabor/django-todo-react]
+1. Clone the project to your machine [https://github.com/anandviv/fulllstack.git]
 2. Navigate into the diretory [cd assignment]
 3. Source the virtual environment [pipenv shell]
 4. Install the dependencies [pipenv install]
